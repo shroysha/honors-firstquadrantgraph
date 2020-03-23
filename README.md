@@ -1,5 +1,5 @@
 # honors-firstquadrantgraph
-> see code: [https://github.com/shroysha/shroysha.github.io/tree/master/archive/school/honors-firstquadrantgraph](https://github.com/shroysha/shroysha.github.io/tree/master/archive/school/honors-firstquadrantgraph)
+> see code: [https://github.com/shroysha/honors-firstquadrantgraph](https://github.com/shroysha/honors-firstquadrantgraph)
 
 ## Description
 null
